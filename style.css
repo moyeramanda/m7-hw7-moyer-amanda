@@ -165,6 +165,6 @@ footer {
   margin-left: -60px;
 }
 
-.tooltip:hover .tooltip-text {
+.tooltip:hover .tooltiptext {
   visibility: visible;
 }
