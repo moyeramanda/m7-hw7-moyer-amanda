@@ -45,7 +45,7 @@ header a {
   color: var(--off-white);
 }
 
-main > article, nav{
+main > article, nav {
   max-width: 1200px;
   margin: 0 auto;
   box-sizing: border-box;
@@ -145,7 +145,7 @@ footer {
   text-decoration: underline;
 }
 
-.tooltip-text {
+.tooltip .tooltiptext {
   visibility: hidden;
   width: 200px;
   background-color: black;
